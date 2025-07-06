@@ -1,0 +1,8 @@
+{
+  "name": "@extensions/twilio",
+  "version": "1.0.0",
+  "dependencies": {
+    "qrcode": "1.4.4",
+    "twilio": "5.5.0"
+  }
+}
